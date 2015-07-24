@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Thomas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="schedule">Schedule</string>
+    <string name="post">Post</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+
+    <string-array name="titles">
+        <item>Job 1</item>
+        <item>Job 2</item>
+        <item>Job 3</item>
+        <item>Job 4</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>easy 1</item>
+        <item>easy 2</item>
+        <item>easy 3</item>
+        <item>easy 4</item>
+    </string-array>
+</resources>

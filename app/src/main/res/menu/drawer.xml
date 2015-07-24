@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:checked="false"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/schedule"
+            android:checked="false"
+            android:icon="@drawable/ic_calender"
+            android:title="@string/schedule" />
+
+        <item
+            android:id="@+id/post"
+            android:checked="false"
+            android:icon="@drawable/ic_post"
+            android:title="@string/post" />
+
+        <item
+            android:id="@+id/notification"
+            android:checked="false"
+            android:icon="@drawable/ic_book"
+            android:title="@string/notification" />
+
+
+        <item
+            android:id="@+id/setting"
+            android:checked="false"
+            android:icon="@drawable/ic_setting"
+            android:title="@string/setting" />
+
+
+    </group>
+</menu>
